@@ -4,3 +4,8 @@ This repository contains the official codebase and research framework developed 
 Key Results & Insights
 - Successfully implemented sequential behavioral tracking using TCN layers.
 - Achieved high-precision predictive scoring using tuned XGBoost hyperparameters.
+
+Tech Stack & Architecture
+- **Languages:** Python
+- **Frameworks/Libraries:** TensorFlow/Keras (for TCN), XGBoost, Scikit-Learn, Pandas, NumPy
+- **Methodology:** Iterative Waterfall Model
